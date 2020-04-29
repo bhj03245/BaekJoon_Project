@@ -5,3 +5,4 @@
 ### Step 3: For Statement
 ### Step 4: While Statement
 ### Step 5: Practice 1
+### Step 6: Array
