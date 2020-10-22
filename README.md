@@ -1,5 +1,5 @@
 # BaekJoon_Project
-## Solving BaekJoon Problem daily	(C)	
+## Solving BaekJoon Problem daily	(C, Java)	
 ### Step 1: Input / output and arithmetic operations
 ### Step 2: If Statement
 ### Step 3: For Statement
