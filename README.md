@@ -16,4 +16,4 @@
 #### Chap5: DFS/BFS
 #### Chap6: Sorting
 #### Chap7: Binary Search
-### Reference: 이것이 취업을 위한 코딩테스트다 With 파이썬 저자 
+#### Reference: 이것이 취업을 위한 코딩테스트다 With 파이썬 저자 나동빈
